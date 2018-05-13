@@ -14,3 +14,6 @@ void Branch()
 {
 	
 }
+
+void Master()
+{}
