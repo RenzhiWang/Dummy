@@ -9,3 +9,8 @@ void Dummy()
 {
 	//do something
 }
+
+void Branch()
+{
+	
+}
