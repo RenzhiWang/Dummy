@@ -1,1 +1,1 @@
-This is an easy test.
+This is a test
