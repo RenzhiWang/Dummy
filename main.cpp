@@ -18,6 +18,3 @@ void Branch()
 {
 	
 }
-
-void Master()
-{}
