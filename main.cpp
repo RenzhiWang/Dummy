@@ -1,3 +1,7 @@
+void Dummy()；
+void Branch()；
+void Master()；
+
 void main()
 {
 	std::cout<<"hello";
